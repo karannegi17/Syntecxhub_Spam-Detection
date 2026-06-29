@@ -160,6 +160,6 @@ Prediction
 
 ## 👨‍💻 Author
 
-**Karan Singh**
+**Karan Singh Negi**
 
 Machine Learning Project
